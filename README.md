@@ -4,7 +4,7 @@ A simple PowerShell tool to manage DNS settings on Windows.
 
 ---
 <p align="center">
-  <img src="./assets/demo.png" alt="DNS Manager Banner" width="100%">
+  <img src="./assets/demo.jpg" alt="DNS Manager Banner" width="100%">
 </p>
 
 ## ✨ Features
@@ -29,17 +29,18 @@ A simple PowerShell tool to manage DNS settings on Windows.
 ```ini
 Google=8.8.8.8,8.8.4.4
 Cloudflare=1.1.1.1,1.0.0.1
-Shecan=178.22.122.100,185.51.200.2```
+Shecan=178.22.122.100,185.51.200.2
 
-    You can edit this file manually or add entries through the app (Option 2).
+    You can edit this file manually or add entries through the app (Option 2).```
+---
 
-⚠️ Requirements
+## ⚠️ Requirements
 
     Windows 10/11
     PowerShell 5.1+
     Administrator privileges (auto-requested)
 
-📜 License
+## 📜 License
 
 MIT License
 <p align="center">Made with ❤️ using PowerShell</p> 
