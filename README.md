@@ -43,5 +43,5 @@ You can edit this file manually or add entries through the app (Option 2).
 
 ## 📜 License
 
-MIT License
+This project is licensed under the MIT License - see the LICENSE file for details.
 <p align="center">Made with ❤️ using PowerShell</p> 
