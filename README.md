@@ -30,8 +30,9 @@ A simple PowerShell tool to manage DNS settings on Windows.
 Google=8.8.8.8,8.8.4.4
 Cloudflare=1.1.1.1,1.0.0.1
 Shecan=178.22.122.100,185.51.200.2
+```
+You can edit this file manually or add entries through the app (Option 2).
 
-    You can edit this file manually or add entries through the app (Option 2).```
 ---
 
 ## ⚠️ Requirements
